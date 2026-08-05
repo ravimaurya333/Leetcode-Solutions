@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [3731-find-missing-elements](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
 ## Interactive
 |  |
