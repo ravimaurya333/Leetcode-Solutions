@@ -1,29 +1,26 @@
 class Solution {
-    public int get_hours(int [] arr,int per_hour){
-        int total_time=0;
-        for(int i=0; i<arr.length; i++){
-            total_time+=Math.ceil((double)arr[i]/(double)per_hour);
-
-        }
-        return total_time;
-    }
     public int minEatingSpeed(int[] piles, int h) {
         int n=piles.length;
         int max=Integer.MIN_VALUE;
         for(int i=0; i<n; i++){
-            if(piles[i]>max) max=piles[i];
+            max=Math.max(piles[i],max);
         }
-        int l=1,r=max;
-        int ans=Integer.MAX_VALUE;
+        int l=1;
+        int r=max;
+        int ans=max;
         while(l<=r){
             int mid=l+(r-l)/2;
-            int min_hour=get_hours(piles,mid);
-            if(min_hour<=h){
-                ans=mid;
-                r=mid-1;
+            long totalHours=0;
+            for(int i=0; i<n; i++){
+                totalHours+=piles[i]/mid;
+                totalHours+=(piles[i]%mid)!=0?1:0;
+            }
+            if(totalHours>h){   
+                 l=mid+1;
             }
             else{
-                l=mid+1;
+                ans=mid;
+                r=mid-1;
             }
         }
         return ans;
