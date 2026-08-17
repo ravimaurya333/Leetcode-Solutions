@@ -3,7 +3,7 @@ class Solution {
         int size=quantities.length;
         int cnt=0;
         for(int i=0; i<size; i++){
-            cnt+=Math.ceil((double)quantities[i]/mid);
+            cnt+=(quantities[i]+mid-1)/mid;
             if(cnt>n) return false;
         }
             if(cnt<=n) return true;
