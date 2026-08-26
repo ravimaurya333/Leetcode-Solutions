@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
