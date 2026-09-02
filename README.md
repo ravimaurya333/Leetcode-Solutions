@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0410-split-array-largest-sum](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0867-transpose-matrix](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -51,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Math
 |  |
 | ------- |
