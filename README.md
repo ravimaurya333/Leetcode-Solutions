@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0867-transpose-matrix](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0877-stone-game](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -120,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
