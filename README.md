@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0410-split-array-largest-sum](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
