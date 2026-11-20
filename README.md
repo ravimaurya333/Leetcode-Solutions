@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0454-4sum-ii](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0454-4sum-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0912-sort-an-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ravimaurya333/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
